@@ -15,3 +15,6 @@ Example of how to setup a mixer, instrument, file player and effects with ofxAud
      3. Open terminal and use command 'auval -a' to list au components
      
      4. to Utilize the method showUI() you need to checkout carbon tag of ofxAudioUnit repo. Terminal into repo and 'git checkout tags/carbon'
+
+
+![alt tag] (https://github.com/nightshining/OF_Meetup_2015/blob/master/Example_Synth/bin/data/ExampleScreen.jpg)
