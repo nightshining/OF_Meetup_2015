@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>22973506-D0C6-4EAC-B6FA-B9204C545B36</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Example_Synth</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>01AA4CBABFC70149D264A6043113AE4AA0B55E07</key>
+		<string>https://github.com/admsyn/ofxAudioUnit.git</string>
+		<key>D3B34C767B7CC105E70B81D5EEFB0044359968E9</key>
+		<string>https://github.com/nightshining/OF_Meetup_2015.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Example_Synth/Example_Synth.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>01AA4CBABFC70149D264A6043113AE4AA0B55E07</key>
+		<string>../../../../../addons/ofxAudioUnit</string>
+		<key>D3B34C767B7CC105E70B81D5EEFB0044359968E9</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/nightshining/OF_Meetup_2015.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>D3B34C767B7CC105E70B81D5EEFB0044359968E9</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>D3B34C767B7CC105E70B81D5EEFB0044359968E9</string>
+			<key>IDESourceControlWCCName</key>
+			<string>OF_Meetup_2015</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>01AA4CBABFC70149D264A6043113AE4AA0B55E07</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ofxAudioUnit</string>
+		</dict>
+	</array>
+</dict>
+</plist>
